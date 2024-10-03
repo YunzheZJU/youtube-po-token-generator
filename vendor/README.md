@@ -1,2 +1,2 @@
-* `index.html` was downloaded from https://www.youtube.com/embed/dQw4w9WgXcQ . Inspect its content for generating timestamp and region.
-* `base.js` was downloaded from https://www.youtube.com/s/player/d2e656ee/player_ias.vflset/en_US/base.js . `d2e656ee` should be the version number for its content.
+* `index.html` was downloaded from https://www.youtube.com/embed/dQw4w9WgXcQ . Inspect its content for generation timestamp and region.
+* `base.js` was downloaded from https://www.youtube.com/s/player/bbc52cb2/player_ias.vflset/en_US/base.js . Inspect the url for its version number.

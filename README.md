@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `js-dom`.
+This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `jsdom`.
 
 ## How it works
 
