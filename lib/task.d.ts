@@ -1,0 +1,1 @@
+export function createTask(visitorData: string): Promise<{ stop: () => void, start: () => Promise<{ poToken: string }> }>;
