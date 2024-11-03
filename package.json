@@ -1,6 +1,6 @@
 {
   "name": "youtube-po-token-generator",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Yunzhe <yunzhe@zju.edu.cn>",
   "description": "It generates a valid poToken with visitorData fetched from YouTube.",
   "keywords": [
@@ -16,7 +16,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^24.1.1"
+    "jsdom": "^24.1.3"
   },
   "engines": {
     "node": ">=18.0"
@@ -24,6 +24,7 @@
   "files": [
     "vendor/",
     "lib/",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ]
 }
