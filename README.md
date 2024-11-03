@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `js-dom`.
+This program outputs the mysterious pair `{ visitorData, poToken }`, with the help of `jsdom`.
 
 ## How it works
 
@@ -36,7 +36,7 @@ const { createTask } = require('youtube-po-token-generator/lib/task')
 
 const visitorData = '...'
 
-createTask(visitorData).then(task => task.start).then(console.log, console.error)
+createTask(visitorData).then(task => task.start()).then(console.log, console.error)
 // => { poToken: '...' }
 ```
 
