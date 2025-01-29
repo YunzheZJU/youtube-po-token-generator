@@ -10,7 +10,7 @@
       "license": "MIT",
       "dependencies": {
         "global-agent": "^3.0.0",
-        "jsdom": "^24.1.3"
+        "jsdom": "^26.0.0"
       },
       "bin": {
         "youtube-po-token-generator": "bin/cli.mjs"
