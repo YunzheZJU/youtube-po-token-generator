@@ -24,7 +24,7 @@ youtube-po-token-generator
 # A string of JSON format would be printed to stdout, parse and use it as you like
 ```
 
-Define proxy settings before you run the program If you are in the case that typically a proxy is needed to access Youtube.
+Define proxy settings before you run the program If you are in the case that typically a proxy is needed to access YouTube.
 
 ```bash
 export HTTPS_PROXY=http://127.0.0.1:8888
