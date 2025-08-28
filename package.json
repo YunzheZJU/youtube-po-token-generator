@@ -20,7 +20,7 @@
     "jsdom": "^26.0.0"
   },
   "scripts": {
-    "prepublishOnly": "npx synp --source-file yarn.lock -f && npm shrinkwrap && git checkout yarn.lock"
+    "prepublishOnlyFIXME": "npx synp --source-file yarn.lock -f && npm shrinkwrap && git checkout yarn.lock"
   },
   "bin": {
     "youtube-po-token-generator": "./bin/cli.mjs"
